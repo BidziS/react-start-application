@@ -9,7 +9,6 @@ npm install -S react react-dom
 npm install -D babel-core bable-loader babel-preset-react
 npm install -D webpack webpack-dev-server html-webpack-plugin
 npm install --save-dev babel-preset-stage-0
-
 ```
 3. Create a file ".babelrc.js" in your root directory. Inside this file write:
 ```js
