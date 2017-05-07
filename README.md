@@ -6,7 +6,7 @@
 mkdir your_application_name && cd your_application_name
 npm init
 npm install -S react react-dom
-npm install -D babel-core bable-loader babel-preset-react
+npm install -D babel-core babel-loader babel-preset-react
 npm install -D webpack webpack-dev-server html-webpack-plugin
 npm install --save-dev babel-preset-stage-0
 ```
